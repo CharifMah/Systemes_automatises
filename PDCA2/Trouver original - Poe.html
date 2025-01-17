@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Transformées de Laplace</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #2C3E50;
+            color: white;
+        }
+        tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+        .example {
+            margin-top: 10px;
+            color: #666;
+            font-style: italic;
+        }
+        .highlight {
+            background-color: #e8f4f8;
+            padding: 15px;
+            border-radius: 5px;
+            margin: 20px 0;
+            border-left: 5px solid #2C3E50;
+        }
+        .solution-steps {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Table des Transformées de Laplace</h1>
+
+    <div class="highlight">
+        <h2>Exemple détaillé : F(p) = 1/(p²+4)</h2>
+        <p>Pour trouver l'original de \[ F(p) = \frac{1}{p^2+4} \]</p>
+        <div class="solution-steps">
+            <p>1) On reconnaît la forme \( \frac{1}{p^2+a^2} \) avec \( a^2 = 4 \) donc \( a = 2 \)</p>
+            <p>2) D'après la table, \( \frac{a}{p^2+a^2} \) est la transformée de \( \sin(at) \)</p>
+            <p>3) Donc \( \frac{1}{p^2+4} = \frac{1}{2} \cdot \frac{2}{p^2+4} \)</p>
+            <p>4) L'original est : \[ f(t) = \frac{1}{2}\sin(2t), \quad t \geq 0 \]</p>
+        </div>
+    </div>
+
+    <table>
+        <tr>
+            <th>f(t) Fonction originale</th>
+            <th>F(p) Transformée de Laplace</th>
+            <th>Exemple</th>
+        </tr>
+        <tr>
+            <td>\[ f(t) = 1 \]</td>
+            <td>\[ F(p) = \frac{1}{p} \]</td>
+            <td>Pour \(f(t) = 3\): \[ F(p) = \frac{3}{p} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = t \]</td>
+            <td>\[ F(p) = \frac{1}{p^2} \]</td>
+            <td>Pour \(f(t) = 2t\): \[ F(p) = \frac{2}{p^2} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = t^n \]</td>
+            <td>\[ F(p) = \frac{n!}{p^{n+1}} \]</td>
+            <td>Pour \(f(t) = t^3\): \[ F(p) = \frac{6}{p^4} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = e^{at} \]</td>
+            <td>\[ F(p) = \frac{1}{p-a} \]</td>
+            <td>Pour \(f(t) = e^{3t}\): \[ F(p) = \frac{1}{p-3} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = \sin(at) \]</td>
+            <td>\[ F(p) = \frac{a}{p^2+a^2} \]</td>
+            <td>Pour \(f(t) = \sin(2t)\): \[ F(p) = \frac{2}{p^2+4} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = \cos(at) \]</td>
+            <td>\[ F(p) = \frac{p}{p^2+a^2} \]</td>
+            <td>Pour \(f(t) = \cos(3t)\): \[ F(p) = \frac{p}{p^2+9} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = t\sin(at) \]</td>
+            <td>\[ F(p) = \frac{2ap}{(p^2+a^2)^2} \]</td>
+            <td>Pour \(f(t) = t\sin(2t)\): \[ F(p) = \frac{4p}{(p^2+4)^2} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = t\cos(at) \]</td>
+            <td>\[ F(p) = \frac{p^2-a^2}{(p^2+a^2)^2} \]</td>
+            <td>Pour \(f(t) = t\cos(2t)\): \[ F(p) = \frac{p^2-4}{(p^2+4)^2} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = te^{at} \]</td>
+            <td>\[ F(p) = \frac{1}{(p-a)^2} \]</td>
+            <td>Pour \(f(t) = te^{2t}\): \[ F(p) = \frac{1}{(p-2)^2} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = t^2e^{at} \]</td>
+            <td>\[ F(p) = \frac{2}{(p-a)^3} \]</td>
+            <td>Pour \(f(t) = t^2e^{3t}\): \[ F(p) = \frac{2}{(p-3)^3} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = \sinh(at) \]</td>
+            <td>\[ F(p) = \frac{a}{p^2-a^2} \]</td>
+            <td>Pour \(f(t) = \sinh(4t)\): \[ F(p) = \frac{4}{p^2-16} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = \cosh(at) \]</td>
+            <td>\[ F(p) = \frac{p}{p^2-a^2} \]</td>
+            <td>Pour \(f(t) = \cosh(2t)\): \[ F(p) = \frac{p}{p^2-4} \]</td>
+        </tr>
+        <tr>
+            <td>\[ f(t) = t^n e^{at} \]</td>
+            <td>\[ F(p) = \frac{n!}{(p-a)^{n+1}} \]</td>
+            <td>Pour \(f(t) = t^2e^t\): \[ F(p) = \frac{2}{(p-1)^3} \]</td>
+        </tr>
+    </table>
+
+    <h2>Propriétés importantes</h2>
+    <p>1. Linéarité : \[ \mathcal{L}\{af(t) + bg(t)\} = aF(p) + bG(p) \]</p>
+    <p>2. Translation temporelle : \[ \mathcal{L}\{f(t-a)u(t-a)\} = e^{-ap}F(p) \]</p>
+    <p>3. Translation fréquentielle : \[ \mathcal{L}\{e^{at}f(t)\} = F(p-a) \]</p>
+    <p>4. Dérivation : \[ \mathcal{L}\{f'(t)\} = pF(p) - f(0) \]</p>
+    <p>5. Dérivée n-ième : \[ \mathcal{L}\{f^{(n)}(t)\} = p^nF(p) - p^{n-1}f(0) - p^{n-2}f'(0) - ... - f^{(n-1)}(0) \]</p>
+    <p>6. Intégration : \[ \mathcal{L}\{\int_0^t f(\tau)d\tau\} = \frac{F(p)}{p} \]</p>
+</div>
+</body>
+</html>
