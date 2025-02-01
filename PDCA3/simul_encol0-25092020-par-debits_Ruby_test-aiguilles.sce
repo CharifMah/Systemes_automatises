@@ -29,7 +29,7 @@ Vxx=(Vx-400)/200; eee=((ee/xx)-0.00857)/(0.00571); hhh=(hh-0.5)/0.3; ddd=(rr-1.0
 TauVx = 30.735 - 6.215*ddd ; //(A remplacer par la fonction objective issu du PE physique)
 
 tau = TauVx/Vxs;
-QS1=Qe*(1-exp(-X1   /(tau*Vxs))); // Débit forcé sur le premier demi axe
+QS1=Qe*(1-exp(-X1/(tau*Vxs))); // Débit forcé sur le premier demi axe
 S1=QS1/Vxs; // Surface de cordon pour Qs1
 
 QS2=QS1(xx*10)*[exp(-(X1/(tau*Vxs)))];
