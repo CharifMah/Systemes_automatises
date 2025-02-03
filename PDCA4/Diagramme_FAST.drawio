@@ -4,20 +4,38 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(219, 234, 254);&quot;&gt;Déposer la colle avec stabilité et précision&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(219, 234, 254);&quot;&gt;Déposer la colle avec stabilité et précision&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="70" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(219, 234, 254);&quot;&gt;Positionner la buse&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="270" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-3" value="Controler le debit de colle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(219, 234, 254);&quot;&gt;Alimenter en colle&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="350" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(219, 234, 254);&quot;&gt;Ajuster le debit&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="270" width="130" height="60" as="geometry" />
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-3" value="&lt;div&gt;Transférer les capots&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(219, 234, 254);&quot;&gt;Déplacer en X-Y-Z&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="350" width="130" height="60" as="geometry" />
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(219, 234, 254);&quot;&gt;Contrôler débit de colle&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-6" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700; background-color: rgb(219, 234, 254);&quot;&gt;Contrôler vitesse table/aiguille&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-7" value="Gérer position Z" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-8" value="Remplir seringue" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="510" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-11" value="Commander et contrôler le procédé" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-12" value="&lt;div&gt;Assurer conditions expérimentales&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-13" value="Positionner capots" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="590" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-14" value="Maintenir environnement stable" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="670" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
