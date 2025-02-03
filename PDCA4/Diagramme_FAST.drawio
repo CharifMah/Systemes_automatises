@@ -1,9 +1,85 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="QGjMv8LrLS21k3CkNhZE">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14px; font-weight: 700;&quot;&gt;Déposer la colle avec stabilité et précision&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-2" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14px; font-weight: 700;&quot;&gt;Alimenter en colle&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="350" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-3" value="&lt;div&gt;Transférer les capots&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-5" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14px; font-weight: 700;&quot;&gt;Contrôler débit de colle&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-6" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14px; font-weight: 700;&quot;&gt;Contrôler vitesse table/aiguille&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="350" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-7" value="Gérer position Z" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="430" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-8" value="Remplir seringue" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="510" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-11" value="Commander et contrôler le procédé" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="270" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-12" value="&lt;div&gt;Assurer conditions expérimentales&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="250" y="510" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-13" value="Positionner capots" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="590" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-14" value="Maintenir environnement stable" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="410" y="670" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-15" value="Système de dosage (±5%)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-16" value="Contrôle axes XYZ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-17" value="Capteur position Z" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-18" value="Système anti-bulle" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-19" value="Système transfert (±1mm)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-20" value="Contrôle T° (17-26°C)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-21" value="Contrôle HR (30-60%)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="840" as="sourcePoint" />
+            <mxPoint x="120" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-33" value="Pourquoi ?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xr2quWgWzoAM4Jd-oPhX-31">
+          <mxGeometry x="0.0877" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-34" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="230" as="sourcePoint" />
+            <mxPoint x="690" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-35" value="Comment ?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Xr2quWgWzoAM4Jd-oPhX-34">
+          <mxGeometry x="-0.014" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
