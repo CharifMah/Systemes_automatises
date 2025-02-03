@@ -22,6 +22,12 @@
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-2" target="Xr2quWgWzoAM4Jd-oPhX-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-2" target="Xr2quWgWzoAM4Jd-oPhX-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-2" target="Xr2quWgWzoAM4Jd-oPhX-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-2" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14px; font-weight: 700;&quot;&gt;Alimenter en colle&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="600" width="130" height="60" as="geometry" />
         </mxCell>
@@ -58,7 +64,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-14" value="Maintenir environnement stable" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="430" y="680" width="130" height="60" as="geometry" />
+          <mxGeometry x="430" y="820" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-19" value="Table XY motorisée" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="340" width="120" height="60" as="geometry" />
@@ -90,14 +96,20 @@
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-62" value="Capteur de vitesse" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810.5" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-64" value="Circuit d&#39;alimentation avec purge" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-64" value="Capteur de niveau" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-66" value="Regulateur de temperature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="810.5" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-68" value="Rails de guidage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-70" value="Réservoir " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-72" value="Pompe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810.5" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
