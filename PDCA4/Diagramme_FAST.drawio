@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="QGjMv8LrLS21k3CkNhZE">
-    <mxGraphModel dx="1509" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,9 @@
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-13" target="Xr2quWgWzoAM4Jd-oPhX-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-13" target="Xr2quWgWzoAM4Jd-oPhX-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-13" value="Positionner capots" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="430" y="260" width="130" height="60" as="geometry" />
         </mxCell>
@@ -73,7 +76,7 @@
           <mxGeometry x="430" y="890" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-19" value="Table XY motorisée" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="810" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-43" target="Xr2quWgWzoAM4Jd-oPhX-3">
           <mxGeometry relative="1" as="geometry" />
@@ -108,8 +111,8 @@
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-66" value="Regulateur de temperature" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="890" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-68" value="Rails de guidage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="260" width="120" height="60" as="geometry" />
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-68" value="Bras Robot" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-70" value="Réservoir " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="670" width="120" height="60" as="geometry" />
@@ -134,6 +137,9 @@
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-80" value="Éclairage LED" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-82" value="Rails de guidage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
