@@ -7,6 +7,19 @@
         <mxCell id="X8hCXNgWhETL42D7RwJg-6" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11800;points=[[0,0,0],[0.5,0,0],[1,0,0],[1,0.5,0],[1,1,0],[0.5,1,0],[0,1,0],[0,0.5,0]]" vertex="1" parent="1">
           <mxGeometry x="280" y="640" width="46.12" height="27.74" as="geometry" />
         </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-10" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11450;points=[[0.04,1,0],[0.707,1,0]]" vertex="1" parent="1">
+          <mxGeometry x="200" y="522" width="111.42" height="56.04" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="X8hCXNgWhETL42D7RwJg-11" target="X8hCXNgWhETL42D7RwJg-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-11" value="Reservoir" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="630" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
