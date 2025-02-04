@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
   <diagram name="Page-1" id="QGjMv8LrLS21k3CkNhZE">
-    <mxGraphModel dx="1687" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-1" target="Xr2quWgWzoAM4Jd-oPhX-76" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14px;&quot;&gt;Déposer la colle avec stabilité et précision&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-1" value="&lt;span style=&quot;font-family: Arial, sans-serif; font-size: 14px;&quot;&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Déposer la colle avec stabilité et précision&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="120" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-2" target="Xr2quWgWzoAM4Jd-oPhX-64" edge="1">
@@ -141,8 +141,14 @@
         <mxCell id="wBjcEMo9rPmOM58TJNtD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wBjcEMo9rPmOM58TJNtD-1" target="Xr2quWgWzoAM4Jd-oPhX-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wBjcEMo9rPmOM58TJNtD-1" value="&lt;span style=&quot;color: rgb(35, 31, 32); font-family: &amp;quot;Roboto Lt&amp;quot;; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Commander manuellement l’encolleuse CR20&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+        <mxCell id="wBjcEMo9rPmOM58TJNtD-1" value="&lt;span style=&quot;font-family: &amp;quot;Roboto Lt&amp;quot;; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 15px; color: rgb(255, 255, 255);&quot;&gt;Commander l’encolleuse CR20&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="120" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wBjcEMo9rPmOM58TJNtD-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="540" as="sourcePoint" />
+            <mxPoint x="700" y="490" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
