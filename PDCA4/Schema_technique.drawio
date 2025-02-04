@@ -20,8 +20,8 @@
         <mxCell id="X8hCXNgWhETL42D7RwJg-10" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;fillColor=strokeColor;align=center;outlineConnect=0;shape=mxgraph.fluid_power.x11450;points=[[0.04,1,0],[0.707,1,0]];rotation=-180;" vertex="1" parent="X8hCXNgWhETL42D7RwJg-15">
           <mxGeometry width="111.42" height="56.04" as="geometry" />
         </mxCell>
-        <mxCell id="X8hCXNgWhETL42D7RwJg-13" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Vérin&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="X8hCXNgWhETL42D7RwJg-15">
-          <mxGeometry x="40" y="-17" width="50" height="30" as="geometry" />
+        <mxCell id="X8hCXNgWhETL42D7RwJg-13" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Seringue&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="X8hCXNgWhETL42D7RwJg-15">
+          <mxGeometry x="30" y="-17" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X8hCXNgWhETL42D7RwJg-26" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="509.99999999999994" width="60" height="60" as="geometry" />
