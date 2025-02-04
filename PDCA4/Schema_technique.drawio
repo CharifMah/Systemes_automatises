@@ -47,7 +47,7 @@
         <mxCell id="X8hCXNgWhETL42D7RwJg-27" value="Peristaltic Pump" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="55" y="480" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X8hCXNgWhETL42D7RwJg-28" value="Encolseuse" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="X8hCXNgWhETL42D7RwJg-28" value="Encolleuse" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="385" y="510" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X8hCXNgWhETL42D7RwJg-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="X8hCXNgWhETL42D7RwJg-28">
