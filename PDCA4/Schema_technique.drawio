@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.10">
+  <diagram name="Page-1" id="dKGNPrQp20S2oc_OehTf">
+    <mxGraphModel dx="717" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="X8hCXNgWhETL42D7RwJg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8hCXNgWhETL42D7RwJg-11" target="X8hCXNgWhETL42D7RwJg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-11" value="Reservoir" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="80" y="499.99999999999994" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="X8hCXNgWhETL42D7RwJg-26">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="X8hCXNgWhETL42D7RwJg-26">
+          <mxGeometry x="15" y="15" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="X8hCXNgWhETL42D7RwJg-26">
+          <mxGeometry x="25" y="10" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="X8hCXNgWhETL42D7RwJg-26">
+          <mxGeometry x="10" y="25" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="X8hCXNgWhETL42D7RwJg-26">
+          <mxGeometry x="39" y="24" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-23" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="X8hCXNgWhETL42D7RwJg-26">
+          <mxGeometry x="26" y="39" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-27" value="Peristaltic Pump" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-28" value="Encolleuse" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8hCXNgWhETL42D7RwJg-34" target="X8hCXNgWhETL42D7RwJg-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8hCXNgWhETL42D7RwJg-34" target="X8hCXNgWhETL42D7RwJg-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-34" value="raspberry pi" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="385" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8hCXNgWhETL42D7RwJg-38" target="X8hCXNgWhETL42D7RwJg-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-38" value="Capteur de niveau pour colle" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="229.99999999999994" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8hCXNgWhETL42D7RwJg-41" target="X8hCXNgWhETL42D7RwJg-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-41" value="Tuyau souple" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8hCXNgWhETL42D7RwJg-16" target="X8hCXNgWhETL42D7RwJg-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
