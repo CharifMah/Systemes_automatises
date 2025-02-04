@@ -40,6 +40,9 @@
         <mxCell id="X8hCXNgWhETL42D7RwJg-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8hCXNgWhETL42D7RwJg-34" target="X8hCXNgWhETL42D7RwJg-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="X8hCXNgWhETL42D7RwJg-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8hCXNgWhETL42D7RwJg-34" target="X8hCXNgWhETL42D7RwJg-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X8hCXNgWhETL42D7RwJg-34" value="raspberry pi" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="385" y="600" width="80" height="80" as="geometry" />
         </mxCell>
@@ -56,9 +59,6 @@
           <mxGeometry x="200" y="520" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X8hCXNgWhETL42D7RwJg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X8hCXNgWhETL42D7RwJg-16" target="X8hCXNgWhETL42D7RwJg-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="X8hCXNgWhETL42D7RwJg-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1.044;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="X8hCXNgWhETL42D7RwJg-34" target="X8hCXNgWhETL42D7RwJg-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
