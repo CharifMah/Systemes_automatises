@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="QGjMv8LrLS21k3CkNhZE">
-    <mxGraphModel dx="2868" dy="1524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
           <mxGeometry x="990" y="495" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-68" value="Bras Robot" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="985" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-70" value="Réservoir central" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="990" y="1820" width="120" height="60" as="geometry" />
@@ -130,7 +130,7 @@
           <mxGeometry x="990" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-85" value="Contrôleur Rasperry pi" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="985" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G61eTxJS0A9dMVI_lam1-1" target="G61eTxJS0A9dMVI_lam1-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -145,7 +145,7 @@
           <mxGeometry x="319.5" y="420" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-9" value="Cable ethernet RJ45" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="986.5" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="990" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G61eTxJS0A9dMVI_lam1-11" target="G61eTxJS0A9dMVI_lam1-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
