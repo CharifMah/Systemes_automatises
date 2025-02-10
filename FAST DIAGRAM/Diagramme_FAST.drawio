@@ -247,6 +247,9 @@
         <mxCell id="Z_Ibb4aaYZXQ2sxeIjwM-1" value="Bac de tri" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Z_Ibb4aaYZXQ2sxeIjwM-11" value="&lt;h1&gt;&lt;b&gt;FAST de l&#39;Encolleuse automatisée&lt;/b&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="990" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
