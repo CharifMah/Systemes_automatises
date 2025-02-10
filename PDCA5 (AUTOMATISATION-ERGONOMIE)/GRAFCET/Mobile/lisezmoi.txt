@@ -1,6 +1,0 @@
-UTILISATION NOMADE DE SFCEDIT
-
-Par défaut, le logiciel utilise la base de registres de Windows pour conserver les paramètres de configuration (polices, couleurs ...).
-Pour une utilisation nomade du logiciel, depuis une clé USB par exemple, vous pouvez spécifier que les paramètres soient conserver dans un fichier.
-Pour cela, copiez simplement le fichier SFCEDIT.INI ci-joint dans le même répertoire que le fichier exécutable SFCEDIT.EXE
-Ainsi vos paramètres seront conservés indépendamment de l'ordinateur qui exécute le logiciel.
