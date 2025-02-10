@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="Page-1" id="QGjMv8LrLS21k3CkNhZE">
-    <mxGraphModel dx="1195" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2049" dy="1089" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="Z_Ibb4aaYZXQ2sxeIjwM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-6" target="Xr2quWgWzoAM4Jd-oPhX-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Contrôler vitesse table/aiguille&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Contrôler les commandes d&#39;entrées&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="320" y="1140" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-14" target="Xr2quWgWzoAM4Jd-oPhX-66" edge="1">
@@ -111,20 +111,20 @@
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-76" target="Xr2quWgWzoAM4Jd-oPhX-80" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="871.5" y="1350" as="targetPoint" />
+            <mxPoint x="870.5" y="1470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="raM5ybPzNinpz_eUsm58-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-76" target="raM5ybPzNinpz_eUsm58-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-76" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Verifier la qualité de l&#39;encollage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="320.5" y="1240" width="179.5" height="60" as="geometry" />
+          <mxGeometry x="319.5" y="1360" width="179.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-78" value="Caméra haute résolution" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="975" y="1240" width="120" height="60" as="geometry" />
+          <mxGeometry x="974" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-80" value="Éclairage LED" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="976.5" y="1320" width="120" height="60" as="geometry" />
+          <mxGeometry x="975.5" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-85" value="Contrôleur Rasperry pi" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="985" y="340" width="120" height="60" as="geometry" />
@@ -242,7 +242,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="raM5ybPzNinpz_eUsm58-1" value="Capteur RFID" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1400" width="120" height="60" as="geometry" />
+          <mxGeometry x="979" y="1520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z_Ibb4aaYZXQ2sxeIjwM-1" value="Bac de tri" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="800" width="120" height="60" as="geometry" />
