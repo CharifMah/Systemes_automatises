@@ -177,22 +177,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bhH3K2stA2qOaMXiyf2e-74" value="" style="group" vertex="1" connectable="0" parent="bhH3K2stA2qOaMXiyf2e-67">
-          <mxGeometry x="60" y="10" width="152" height="40" as="geometry" />
+          <mxGeometry x="60" y="10" width="152" height="51" as="geometry" />
         </mxCell>
         <mxCell id="bhH3K2stA2qOaMXiyf2e-78" value="" style="rounded=0;whiteSpace=wrap;html=1;startSize=20;strokeColor=#000000;strokeWidth=1;fillColor=#000000;" vertex="1" parent="bhH3K2stA2qOaMXiyf2e-74">
           <mxGeometry y="9" width="2" height="2" as="geometry" />
         </mxCell>
-        <mxCell id="bhH3K2stA2qOaMXiyf2e-79" value="Appel le bras manipulateur" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;spacing=0;strokeColor=#000000;container=0;" vertex="1" parent="bhH3K2stA2qOaMXiyf2e-74">
-          <mxGeometry width="150" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="bhH3K2stA2qOaMXiyf2e-193" value="" style="group" vertex="1" connectable="0" parent="bhH3K2stA2qOaMXiyf2e-154">
-          <mxGeometry x="210" y="10" width="152" height="40" as="geometry" />
+        <mxCell id="bhH3K2stA2qOaMXiyf2e-193" value="" style="group" vertex="1" connectable="0" parent="bhH3K2stA2qOaMXiyf2e-74">
+          <mxGeometry width="152" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bhH3K2stA2qOaMXiyf2e-194" value="" style="rounded=0;whiteSpace=wrap;html=1;startSize=20;strokeColor=#000000;strokeWidth=1;fillColor=#000000;" vertex="1" parent="bhH3K2stA2qOaMXiyf2e-193">
           <mxGeometry y="9" width="2" height="2" as="geometry" />
         </mxCell>
         <mxCell id="bhH3K2stA2qOaMXiyf2e-195" value="Attente" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;spacing=0;strokeColor=#000000;container=0;" vertex="1" parent="bhH3K2stA2qOaMXiyf2e-193">
           <mxGeometry width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bhH3K2stA2qOaMXiyf2e-79" value="Appel le bras manipulateur" style="text;html=1;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;whiteSpace=wrap;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=10;spacing=0;strokeColor=#000000;container=0;" vertex="1" parent="bhH3K2stA2qOaMXiyf2e-154">
+          <mxGeometry x="210" y="10" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bhH3K2stA2qOaMXiyf2e-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;startFill=0;" edge="1" parent="1" source="bhH3K2stA2qOaMXiyf2e-99" target="bhH3K2stA2qOaMXiyf2e-69">
           <mxGeometry relative="1" as="geometry">
