@@ -199,14 +199,6 @@
         <mxCell id="dpYsJd-5rGW1-rWkGQPt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G61eTxJS0A9dMVI_lam1-1" target="2b7BFw_aG3oZxj_yZG9y-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dpYsJd-5rGW1-rWkGQPt-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G61eTxJS0A9dMVI_lam1-1" target="dpYsJd-5rGW1-rWkGQPt-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="280" y="1780" />
-              <mxPoint x="280" y="1690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-1" value="&lt;span&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;FP2 :&amp;nbsp; Alimentation automatique de la colle&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Helvetica;fontSize=13;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="96.62" y="1750" width="140" height="60" as="geometry" />
         </mxCell>
