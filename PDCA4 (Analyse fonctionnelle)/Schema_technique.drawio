@@ -4,6 +4,18 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VFK6MuSM5W3HrAx0-VE9-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="440" width="810" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="VFK6MuSM5W3HrAx0-VE9-6" value="" style="group" vertex="1" connectable="0" parent="VFK6MuSM5W3HrAx0-VE9-5">
+          <mxGeometry width="810" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="VFK6MuSM5W3HrAx0-VE9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VFK6MuSM5W3HrAx0-VE9-6">
+          <mxGeometry width="810" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="VFK6MuSM5W3HrAx0-VE9-4" value="Chaine de production" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VFK6MuSM5W3HrAx0-VE9-6">
+          <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="X8hCXNgWhETL42D7RwJg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="X8hCXNgWhETL42D7RwJg-11" target="X8hCXNgWhETL42D7RwJg-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -64,11 +76,8 @@
         <mxCell id="X8hCXNgWhETL42D7RwJg-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="X8hCXNgWhETL42D7RwJg-16" target="X8hCXNgWhETL42D7RwJg-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mcXInol9gUDdHg6yn5vd-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="305" y="480" as="sourcePoint" />
-            <mxPoint x="485" y="510" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="VFK6MuSM5W3HrAx0-VE9-2" value="Bureau de controle et supervision" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="520" y="790" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
