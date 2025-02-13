@@ -44,21 +44,12 @@
           <mxGeometry x="490" y="480" width="89.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIVuf7WgYAzusMMb-A10-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="318.02398282201784" y="738.9339828220179" width="212.13203435596427" height="212.13203435596415" as="geometry" />
+          <mxGeometry x="323.93398282201787" y="710.003982822018" width="212.13203435596427" height="212.13203435596415" as="geometry" />
         </mxCell>
         <mxCell id="ZIVuf7WgYAzusMMb-A10-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.desk_corner;rotation=45;" vertex="1" parent="ZIVuf7WgYAzusMMb-A10-6">
           <mxGeometry x="31.066017177982133" y="31.066017177982076" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ZIVuf7WgYAzusMMb-A10-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Poste de supervision&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZIVuf7WgYAzusMMb-A10-6">
-          <mxGeometry x="3.5660171779821326" y="151.06601717798208" width="205" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ZIVuf7WgYAzusMMb-A10-7" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="307.00398282201786" y="700.003982822018" width="212.13203435596427" height="212.13203435596415" as="geometry" />
-        </mxCell>
-        <mxCell id="ZIVuf7WgYAzusMMb-A10-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.desk_corner;rotation=45;" vertex="1" parent="ZIVuf7WgYAzusMMb-A10-7">
-          <mxGeometry x="31.066017177982133" y="31.066017177982076" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="ZIVuf7WgYAzusMMb-A10-9" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Poste de supervision&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZIVuf7WgYAzusMMb-A10-7">
           <mxGeometry x="3.5660171779821326" y="151.06601717798208" width="205" height="30" as="geometry" />
         </mxCell>
       </root>
