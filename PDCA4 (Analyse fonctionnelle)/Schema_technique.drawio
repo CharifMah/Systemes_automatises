@@ -5,16 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VFK6MuSM5W3HrAx0-VE9-5" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="20" y="440" width="810" height="290" as="geometry" />
+          <mxGeometry x="30" y="340" width="810" height="370" as="geometry" />
         </mxCell>
         <mxCell id="VFK6MuSM5W3HrAx0-VE9-6" value="" style="group" vertex="1" connectable="0" parent="VFK6MuSM5W3HrAx0-VE9-5">
-          <mxGeometry width="810" height="290" as="geometry" />
+          <mxGeometry width="810" height="370.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="VFK6MuSM5W3HrAx0-VE9-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="VFK6MuSM5W3HrAx0-VE9-6">
-          <mxGeometry width="810" height="290" as="geometry" />
+          <mxGeometry width="810" height="370.00000000000006" as="geometry" />
         </mxCell>
         <mxCell id="VFK6MuSM5W3HrAx0-VE9-4" value="Chaine de production" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VFK6MuSM5W3HrAx0-VE9-6">
           <mxGeometry width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VFK6MuSM5W3HrAx0-VE9-7" value="Bras" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="VFK6MuSM5W3HrAx0-VE9-6">
+          <mxGeometry x="490" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="X8hCXNgWhETL42D7RwJg-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="X8hCXNgWhETL42D7RwJg-11" target="X8hCXNgWhETL42D7RwJg-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
