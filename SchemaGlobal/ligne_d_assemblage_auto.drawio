@@ -44,7 +44,7 @@
           <mxGeometry x="490" y="480" width="89.81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIVuf7WgYAzusMMb-A10-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="323.93398282201787" y="710.003982822018" width="212.13203435596427" height="212.13203435596415" as="geometry" />
+          <mxGeometry x="500.00398282201786" y="690.003982822018" width="212.13203435596427" height="212.13203435596415" as="geometry" />
         </mxCell>
         <mxCell id="ZIVuf7WgYAzusMMb-A10-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.desk_corner;rotation=45;" vertex="1" parent="ZIVuf7WgYAzusMMb-A10-6">
           <mxGeometry x="31.066017177982133" y="31.066017177982076" width="150" height="150" as="geometry" />
@@ -53,13 +53,13 @@
           <mxGeometry x="3.5660171779821326" y="151.06601717798208" width="205" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZIVuf7WgYAzusMMb-A10-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="800" y="334" width="205" height="250" as="geometry" />
+          <mxGeometry x="180" y="670" width="170" height="230" as="geometry" />
         </mxCell>
         <mxCell id="ZIVuf7WgYAzusMMb-A10-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.trashcan;" vertex="1" parent="ZIVuf7WgYAzusMMb-A10-14">
-          <mxGeometry x="22.5" width="160" height="200" as="geometry" />
+          <mxGeometry x="18.65853658536585" width="132.6829268292683" height="184" as="geometry" />
         </mxCell>
         <mxCell id="ZIVuf7WgYAzusMMb-A10-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Bac de tri&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZIVuf7WgYAzusMMb-A10-14">
-          <mxGeometry y="220" width="205" height="30" as="geometry" />
+          <mxGeometry y="202.4" width="170" height="27.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
