@@ -67,7 +67,7 @@
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-66" value="Regulateur de temperature" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="757.75" y="400" width="162.25" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-68" value="Bras Robot" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-68" value="Bras Robot UR5" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="760" y="990" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-70" value="Réservoir central" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
@@ -112,6 +112,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2b7BFw_aG3oZxj_yZG9y-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="G61eTxJS0A9dMVI_lam1-1" target="G61eTxJS0A9dMVI_lam1-58" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dpYsJd-5rGW1-rWkGQPt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="G61eTxJS0A9dMVI_lam1-1" target="2b7BFw_aG3oZxj_yZG9y-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-1" value="&lt;span&gt;&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;FP2 : Alimenter en colle&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontFamily=Helvetica;fontSize=13;fontStyle=1" parent="1" vertex="1">
@@ -240,8 +243,11 @@
         <mxCell id="2b7BFw_aG3oZxj_yZG9y-17" value="&lt;div&gt;&lt;font&gt;FC15&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Surveiller en temps réel le niveau de colle dans la seringue&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="320.5" y="1590" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dpYsJd-5rGW1-rWkGQPt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2b7BFw_aG3oZxj_yZG9y-24" target="Xr2quWgWzoAM4Jd-oPhX-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2b7BFw_aG3oZxj_yZG9y-24" value="&lt;div&gt;&lt;font&gt;FC16&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;: Maintenir la continuité du flux dans la seringue&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="317.25" y="1693.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="320.5" y="1690" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
