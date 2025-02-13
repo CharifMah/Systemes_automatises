@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="Page-1" id="wsNNgHkZyvKV6LnZdtPx">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1043" dy="2003" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
             <mxRectangle width="205" height="51" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LHAPfjg0Mkd1mfX0qoU--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="bhH3K2stA2qOaMXiyf2e-69">
+        <mxCell id="LHAPfjg0Mkd1mfX0qoU--10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="bhH3K2stA2qOaMXiyf2e-69" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="803" />
@@ -174,9 +174,6 @@
             <mxPoint x="210" y="803" as="sourcePoint" />
             <mxPoint x="201.94" y="352.97" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="LHAPfjg0Mkd1mfX0qoU--12" value="Graphcet de l&#39;encolleuse" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="180" y="180" width="740" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6jtiyzdOOXkFqBgWurO7-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="204" y="490" width="215" height="313" as="geometry" />
