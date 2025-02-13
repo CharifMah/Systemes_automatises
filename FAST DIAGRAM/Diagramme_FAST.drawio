@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.12">
   <diagram name="Page-1" id="QGjMv8LrLS21k3CkNhZE">
-    <mxGraphModel dx="1687" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Z_Ibb4aaYZXQ2sxeIjwM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=0" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-6" target="Xr2quWgWzoAM4Jd-oPhX-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-6" value="&lt;span&gt;FC11 : Contrôler les commandes d&#39;entrées sur l&#39;encolleuse&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-6" value="&lt;span&gt;FC10 : Contrôler les commandes d&#39;entrées sur l&#39;encolleuse&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="319.5" y="1079" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" source="Xr2quWgWzoAM4Jd-oPhX-14" target="Xr2quWgWzoAM4Jd-oPhX-66" edge="1">
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-76" value="&lt;span&gt;FC13 : Vérifier la qualité de l&#39;encollage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="Xr2quWgWzoAM4Jd-oPhX-76" value="&lt;span&gt;FC12 : Vérifier la qualité de l&#39;encollage&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="320.5" y="1260" width="190.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-78" value="Caméra haute résolution" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
@@ -141,7 +141,7 @@
         <mxCell id="G61eTxJS0A9dMVI_lam1-13" value="Réseau électrique alternatif" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="760" y="480" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G61eTxJS0A9dMVI_lam1-16" value="&lt;font&gt;FC10 :&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Transférer les capots entre les différentes étapes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="G61eTxJS0A9dMVI_lam1-16" value="&lt;font&gt;FC9 :&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Transférer les capots entre les différentes étapes&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="320.5" y="990" width="199.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=0" parent="1" source="G61eTxJS0A9dMVI_lam1-16" target="Xr2quWgWzoAM4Jd-oPhX-68" edge="1">
@@ -172,7 +172,7 @@
             <mxPoint x="536.5" y="820" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G61eTxJS0A9dMVI_lam1-46" value="&lt;div&gt;&lt;font&gt;FC7&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Respecter les contraintes de production de l’usine du futur de Rouen&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="G61eTxJS0A9dMVI_lam1-46" value="&lt;div&gt;&lt;font&gt;FC6&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Respecter les contraintes de production de l’usine du futur de Rouen&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="320.5" y="740" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-48" value="Liaison virtuel" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0" parent="1" vertex="1">
@@ -181,7 +181,7 @@
         <mxCell id="G61eTxJS0A9dMVI_lam1-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=0" parent="1" source="G61eTxJS0A9dMVI_lam1-50" target="G61eTxJS0A9dMVI_lam1-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G61eTxJS0A9dMVI_lam1-50" value="&lt;div&gt;&lt;font&gt;FC8&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Commander manuellement l’encolleuse CR20 (mode maintenance)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="G61eTxJS0A9dMVI_lam1-50" value="&lt;div&gt;&lt;font&gt;FC7&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Commander manuellement l’encolleuse CR20 (mode maintenance)&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="320.5" y="820" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-52" value="IHM permettant de commander les déplacement (X,Y,Z)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
@@ -195,7 +195,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G61eTxJS0A9dMVI_lam1-55" value="&lt;div&gt;&lt;font&gt;FC9&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Aucun arrêt de la ligne de production&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="G61eTxJS0A9dMVI_lam1-55" value="&lt;div&gt;&lt;font&gt;FC8&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Aucun arrêt de la ligne de production&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="319.5" y="910" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="G61eTxJS0A9dMVI_lam1-58" target="Xr2quWgWzoAM4Jd-oPhX-70" edge="1">
@@ -204,7 +204,7 @@
         <mxCell id="G61eTxJS0A9dMVI_lam1-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="G61eTxJS0A9dMVI_lam1-58" target="G61eTxJS0A9dMVI_lam1-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G61eTxJS0A9dMVI_lam1-58" value="&lt;div&gt;&lt;font&gt;FC17&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Aucun arrêt de la ligne de production&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="G61eTxJS0A9dMVI_lam1-58" value="&lt;div&gt;&lt;font&gt;FC16&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Aucun arrêt de la ligne de production&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="320.5" y="1800" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-61" value="Seringue" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
@@ -225,7 +225,7 @@
         <mxCell id="Z_Ibb4aaYZXQ2sxeIjwM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=0" parent="1" source="Z_Ibb4aaYZXQ2sxeIjwM-12" target="Z_Ibb4aaYZXQ2sxeIjwM-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Z_Ibb4aaYZXQ2sxeIjwM-12" value="&lt;span&gt;FC12 : Lecture/Ecriture&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;FR&quot; style=&quot;font-family: Calibri, sans-serif;&quot;&gt;des informations&amp;nbsp;&lt;/span&gt;&lt;span&gt;sur la puce RFID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
+        <mxCell id="Z_Ibb4aaYZXQ2sxeIjwM-12" value="&lt;span&gt;FC11 : Lecture/Ecriture&amp;nbsp;&lt;/span&gt;&lt;span lang=&quot;FR&quot; style=&quot;font-family: Calibri, sans-serif;&quot;&gt;des informations&amp;nbsp;&lt;/span&gt;&lt;span&gt;sur la puce RFID&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="319.5" y="1169" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z_Ibb4aaYZXQ2sxeIjwM-14" value="Lecteur/Graveur RFID" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
@@ -234,7 +234,7 @@
         <mxCell id="2b7BFw_aG3oZxj_yZG9y-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2b7BFw_aG3oZxj_yZG9y-15" target="Xr2quWgWzoAM4Jd-oPhX-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2b7BFw_aG3oZxj_yZG9y-15" value="&lt;div&gt;&lt;font&gt;FC14&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Surveiller en temps réel le niveau de colle dans le réservoir&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="2b7BFw_aG3oZxj_yZG9y-15" value="&lt;div&gt;&lt;font&gt;FC13&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Surveiller en temps réel le niveau de colle dans le réservoir&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="320.5" y="1500" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2b7BFw_aG3oZxj_yZG9y-16" value="Capteur laser" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
@@ -243,13 +243,13 @@
         <mxCell id="2b7BFw_aG3oZxj_yZG9y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2b7BFw_aG3oZxj_yZG9y-17" target="2b7BFw_aG3oZxj_yZG9y-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2b7BFw_aG3oZxj_yZG9y-17" value="&lt;div&gt;&lt;font&gt;FC15&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Surveiller en temps réel le niveau de colle dans la seringue&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="2b7BFw_aG3oZxj_yZG9y-17" value="&lt;div&gt;&lt;font&gt;FC14&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Surveiller en temps réel le niveau de colle dans la seringue&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="320.5" y="1590" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dpYsJd-5rGW1-rWkGQPt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2b7BFw_aG3oZxj_yZG9y-24" target="Xr2quWgWzoAM4Jd-oPhX-72">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2b7BFw_aG3oZxj_yZG9y-24" value="&lt;div&gt;&lt;font&gt;FC16&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;: Maintenir la continuité du flux dans la seringue&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="2b7BFw_aG3oZxj_yZG9y-24" value="&lt;div&gt;&lt;font&gt;FC15&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;: Maintenir la continuité du flux dans la seringue&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="320.5" y="1690" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
