@@ -52,6 +52,15 @@
         <mxCell id="ZIVuf7WgYAzusMMb-A10-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Poste de supervision&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZIVuf7WgYAzusMMb-A10-6">
           <mxGeometry x="3.5660171779821326" y="151.06601717798208" width="205" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZIVuf7WgYAzusMMb-A10-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="800" y="334" width="205" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIVuf7WgYAzusMMb-A10-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.trashcan;" vertex="1" parent="ZIVuf7WgYAzusMMb-A10-14">
+          <mxGeometry x="22.5" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ZIVuf7WgYAzusMMb-A10-13" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Bac de tri&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="ZIVuf7WgYAzusMMb-A10-14">
+          <mxGeometry y="220" width="205" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
