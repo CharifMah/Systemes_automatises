@@ -272,8 +272,8 @@
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-64" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="2520" as="sourcePoint" />
-            <mxPoint x="840" y="155" as="targetPoint" />
+            <mxPoint x="850" y="2340" as="sourcePoint" />
+            <mxPoint x="850" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Z_Ibb4aaYZXQ2sxeIjwM-11" value="&lt;h1&gt;&lt;b&gt;FAST de l&#39;Encolleuse automatisée&lt;/b&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;" parent="1" vertex="1">
@@ -407,7 +407,7 @@
         <mxCell id="vrLQeDl1WmxTMKaAoDFs-10" value="&lt;div&gt;&lt;font&gt;FT6-1&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Garantir l’hygiène sur le au travail&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="598.5" y="740" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vrLQeDl1WmxTMKaAoDFs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=0" edge="1" parent="1" source="G61eTxJS0A9dMVI_lam1-46" target="vrLQeDl1WmxTMKaAoDFs-14">
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=0;endArrow=none;startFill=0;" edge="1" parent="1" source="G61eTxJS0A9dMVI_lam1-46" target="vrLQeDl1WmxTMKaAoDFs-14">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="521" y="940" as="sourcePoint" />
             <mxPoint x="961" y="940" as="targetPoint" />
@@ -416,7 +416,7 @@
         <mxCell id="vrLQeDl1WmxTMKaAoDFs-14" value="&lt;div&gt;&lt;font&gt;FT7-1&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Assurer la connectivité et l’échange de données avec l’usine du futur&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="598.5" y="910" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vrLQeDl1WmxTMKaAoDFs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=0" edge="1" parent="1" source="G61eTxJS0A9dMVI_lam1-50" target="vrLQeDl1WmxTMKaAoDFs-16">
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontStyle=0;endArrow=none;startFill=0;" edge="1" parent="1" source="G61eTxJS0A9dMVI_lam1-50" target="vrLQeDl1WmxTMKaAoDFs-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="523" y="1020" as="sourcePoint" />
             <mxPoint x="960" y="1020" as="targetPoint" />
@@ -425,7 +425,7 @@
         <mxCell id="vrLQeDl1WmxTMKaAoDFs-16" value="&lt;div&gt;&lt;font&gt;FT8-1&lt;/font&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Fournir une interface pour le contrôle manuel des déplacements de l’encolleuse&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="598.5" y="990" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vrLQeDl1WmxTMKaAoDFs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=0" edge="1" parent="1" source="G61eTxJS0A9dMVI_lam1-16" target="vrLQeDl1WmxTMKaAoDFs-18">
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=13;fontStyle=0;endArrow=none;startFill=0;" edge="1" parent="1" source="G61eTxJS0A9dMVI_lam1-16" target="vrLQeDl1WmxTMKaAoDFs-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="521" y="1100" as="sourcePoint" />
             <mxPoint x="962" y="1100" as="targetPoint" />
