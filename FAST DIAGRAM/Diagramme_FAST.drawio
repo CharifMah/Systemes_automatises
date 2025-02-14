@@ -168,7 +168,7 @@
           <mxGeometry x="958.15" y="2240" width="160.27" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-72" value="Pompe péristaltique" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="959.55" y="2140" width="158.87" height="60" as="geometry" />
+          <mxGeometry x="959.55" y="2120" width="158.87" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xr2quWgWzoAM4Jd-oPhX-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" source="vrLQeDl1WmxTMKaAoDFs-30" target="Xr2quWgWzoAM4Jd-oPhX-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -264,7 +264,7 @@
         <mxCell id="G61eTxJS0A9dMVI_lam1-52" value="IHM permettant de commander les déplacement (X,Y,Z)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="960" y="990" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="G61eTxJS0A9dMVI_lam1-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="G61eTxJS0A9dMVI_lam1-58" target="Xr2quWgWzoAM4Jd-oPhX-70" edge="1">
+        <mxCell id="G61eTxJS0A9dMVI_lam1-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;" parent="1" source="vrLQeDl1WmxTMKaAoDFs-67" target="Xr2quWgWzoAM4Jd-oPhX-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-58" value="&lt;div&gt;&lt;font&gt;FC17&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Aucun arrêt de la ligne de production&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
@@ -272,7 +272,7 @@
         </mxCell>
         <mxCell id="G61eTxJS0A9dMVI_lam1-64" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="840" y="2280" as="sourcePoint" />
+            <mxPoint x="840" y="2520" as="sourcePoint" />
             <mxPoint x="840" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -298,19 +298,32 @@
           <mxGeometry x="321.08000000000004" y="1880" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2b7BFw_aG3oZxj_yZG9y-16" value="Capteur laser" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="959.55" y="2040" width="158.87" height="60" as="geometry" />
+          <mxGeometry x="958.55" y="2000" width="158.87" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2b7BFw_aG3oZxj_yZG9y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2b7BFw_aG3oZxj_yZG9y-17" target="2b7BFw_aG3oZxj_yZG9y-16" edge="1">
+        <mxCell id="2b7BFw_aG3oZxj_yZG9y-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vrLQeDl1WmxTMKaAoDFs-56" target="2b7BFw_aG3oZxj_yZG9y-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2b7BFw_aG3oZxj_yZG9y-17" value="&lt;div&gt;&lt;font&gt;FC15&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Surveiller en temps réel le niveau de colle dans la seringue&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="319.50000000000006" y="2040" width="200" height="60" as="geometry" />
+          <mxGeometry x="318.50000000000006" y="2000" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dpYsJd-5rGW1-rWkGQPt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2b7BFw_aG3oZxj_yZG9y-24" target="Xr2quWgWzoAM4Jd-oPhX-72" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="2b7BFw_aG3oZxj_yZG9y-24" target="vrLQeDl1WmxTMKaAoDFs-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="559" y="2150" />
+              <mxPoint x="559" y="2110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="2b7BFw_aG3oZxj_yZG9y-24" target="vrLQeDl1WmxTMKaAoDFs-59">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="2150" />
+              <mxPoint x="560" y="2190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="2b7BFw_aG3oZxj_yZG9y-24" value="&lt;div&gt;&lt;font&gt;FC16&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&amp;nbsp;: Maintenir la continuité du flux dans la seringue&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="319.50000000000006" y="2140" width="200" height="60" as="geometry" />
+          <mxGeometry x="319.50000000000006" y="2120" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dpYsJd-5rGW1-rWkGQPt-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dpYsJd-5rGW1-rWkGQPt-4" target="dpYsJd-5rGW1-rWkGQPt-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -490,6 +503,36 @@
         </mxCell>
         <mxCell id="vrLQeDl1WmxTMKaAoDFs-51" value="FT14-2 : Détecter les variations du niveau et générer des alertes" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="598.5" y="1920" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrLQeDl1WmxTMKaAoDFs-58" target="Xr2quWgWzoAM4Jd-oPhX-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-58" value="FT16-1 : Réguler le débit de colle" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="598.5" y="2080" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrLQeDl1WmxTMKaAoDFs-59" target="Xr2quWgWzoAM4Jd-oPhX-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-59" value="FT16-2 : Assurer une alimentation constante sans interruption" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="600" y="2160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=0;" edge="1" parent="1" source="2b7BFw_aG3oZxj_yZG9y-17" target="vrLQeDl1WmxTMKaAoDFs-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="518" y="2030" as="sourcePoint" />
+            <mxPoint x="959" y="2030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-56" value="FT15-1 : Mesurer le niveau de colle dans la seringue avec précision" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="597.5" y="2000" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;endArrow=none;startFill=0;" edge="1" parent="1" source="G61eTxJS0A9dMVI_lam1-58" target="vrLQeDl1WmxTMKaAoDFs-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="519" y="2270" as="sourcePoint" />
+            <mxPoint x="958" y="2270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vrLQeDl1WmxTMKaAoDFs-67" value="FT17-1 : Maintenir un niveau minimal de colle pour éviter les arrêts" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=default;labelBorderColor=none;textShadow=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=13;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="600" y="2240" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
