@@ -354,7 +354,7 @@
           <mxGeometry x="319.5" y="1690" width="192.62" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dpYsJd-5rGW1-rWkGQPt-12" value="Poste de supervision (assisté par un opérateur)" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="962.89" y="1690" width="159" height="60" as="geometry" />
+          <mxGeometry x="958.79" y="1690" width="159" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dpYsJd-5rGW1-rWkGQPt-16" value="Mesures de sécurité physique" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="961.26" y="820" width="160" height="60" as="geometry" />
